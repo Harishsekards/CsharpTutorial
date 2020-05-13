@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiCastDelegate", "MultiC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{335343B4-1552-4D63-981C-8906DC2A1916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflections", "Reflections\Reflections.csproj", "{7DCF4349-8897-474F-B9AD-1806F60A716E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflections", "Reflections\Reflections.csproj", "{7DCF4349-8897-474F-B9AD-1806F60A716E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassPractice", "PartialClassPractice\PartialClassPractice.csproj", "{9C9732B4-D542-4700-84D9-AADC781E5B71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7DCF4349-8897-474F-B9AD-1806F60A716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCF4349-8897-474F-B9AD-1806F60A716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCF4349-8897-474F-B9AD-1806F60A716E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9732B4-D542-4700-84D9-AADC781E5B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9732B4-D542-4700-84D9-AADC781E5B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9732B4-D542-4700-84D9-AADC781E5B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9732B4-D542-4700-84D9-AADC781E5B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
